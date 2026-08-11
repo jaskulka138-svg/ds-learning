@@ -1,0 +1,2 @@
+Uczę się Git-a.
+
